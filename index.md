@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% include 01-name.md %}
-
+*MIKE*
 <br>
 
 {% include 02-image.md %}
@@ -15,7 +15,8 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
-
+-apple
+-banana
 <br>
 
 {% include 05-emphasis.md %}
